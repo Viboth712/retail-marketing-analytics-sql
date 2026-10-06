@@ -85,4 +85,4 @@ Run the three files in order (01, 02, then 03) in a SQL database such as SQLite 
 
 ---
 
-*Nouviboth Ra · [LinkedIn](https://www.linkedin.com/in/nouviboth-ra-792439362)*
+*Nouviboth Ra · [LinkedIn](https://www.linkedin.com/in/nbothra)*
