@@ -71,13 +71,17 @@ All five analysis queries are in [`sql/03_analysis_queries.sql`](sql/03_analysis
 
 ```
 ├── sql/
-│   └── 03_analysis_queries.sql  # Five business questions
+│   ├── 01_create_tables.sql     # Creates the 12 tables
+│   ├── 02_sample_data.sql       # Inserts the sample data
+│   └── 03_analysis_queries.sql  # Answers the five business questions
 ├── images/
 │   └── erd.jpg
 └── README.md
 ```
 
-The table definitions and sample data scripts will be added soon.
+## How to run it
+
+Run the three files in order (01, 02, then 03) in a SQL database such as SQLite or MySQL. Each query in step 03 returns one results table.
 
 ---
 
